@@ -185,7 +185,7 @@
             <div class="col-sm-6 col-lg-4">
               <div class="portfolio-box rounded my-3">
                 <div class="portfolio-img rounded"> <img class="img-fluid d-block" src="images/stadium.jpeg" alt="">
-                  <div class="portfolio-overlay"> <a class="popup-ajax stretched-link" href="ajax/portfolio-ajax-project-tweet.html"></a>
+                  <div class="portfolio-overlay"> 
                     <div class="portfolio-overlay-details">
                       <h5 class="text-white font-weight-400">Old Trafford</h5>
                       <span class="text-light">Stadium</span></div>
@@ -197,9 +197,9 @@
             <div class="col-sm-6 col-lg-4">
               <div class="portfolio-box rounded my-3">
                 <div class="portfolio-img rounded"> <img class="img-fluid d-block" src="images/manu_1.jpeg" alt="">
-                  <div class="portfolio-overlay"> <a class="popup-ajax stretched-link" href="ajax/portfolio-ajax-project-segmentation.html"></a>
+                  <div class="portfolio-overlay"> 
                     <div class="portfolio-overlay-details">
-                      <h5 class="text-white font-weight-400">History</h5>
+                      <h5 class="text-white font-weight-400">Long history</h5>
                       <span class="text-light">ManU</span></div>
                   </div>
                 </div>
@@ -209,7 +209,7 @@
             <div class="col-sm-6 col-lg-4 mlda">
               <div class="portfolio-box rounded my-3">
                 <div class="portfolio-img rounded"> <img class="img-fluid d-block" src="images/legends.jpeg" alt="">
-                  <div class="portfolio-overlay"> <a class="popup-ajax stretched-link" href="ajax/portfolio-ajax-project-text.html"></a>
+                  <div class="portfolio-overlay"> 
                     <div class="portfolio-overlay-details">
                       <h5 class="text-white font-weight-400">Legendary Players</h5>
                       <span class="text-light">Legends</span> </div>
@@ -302,15 +302,17 @@
           <p class="text-9 text-dark font-weight-600 position-absolute w-100 align-self-center line-height-4 mb-0">Attacking Points<span class="heading-separator-line border-bottom border-3 border-primary position-abolute d-block mx-auto"></span> </p>
         </div>
         <!-- Heading end-->
-        <div id="observablehq-chart-c329cbb6"></div>
-          <script type="module">
-          import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
-          import define from "https://api.observablehq.com/@zxarda01/multi-line-chart-zoom.js?v=3";
-          new Runtime().module(define, name => {
-            if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-c329cbb6"));
-          });
-          </script>
-          </div>
+        <div id="observablehq-viewof-dd1-ffadd5e3"></div>
+<div id="observablehq-chart-ffadd5e3"></div>
+
+<script type="module">
+import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+import define from "https://api.observablehq.com/@zxarda01/multi-line-chart-zoom.js?v=3";
+new Runtime().module(define, name => {
+  if (name === "viewof dd1") return new Inspector(document.querySelector("#observablehq-viewof-dd1-ffadd5e3"));
+  if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-ffadd5e3"));
+});
+</script>
       </section>
     <!-- Portfolio end -->
 
@@ -355,19 +357,8 @@
             <p>The map allows you to zoom in and out, hover over the countries to view detailed information. The density of color blue represents the higher number of fans in that country.</p>
           </div>
             <img src="images/map_scale.png" style="width: 18em;">
-            <div id="observablehq-map-ed20d7da"></div>
-<div id="observablehq-styles-ed20d7da"></div>
-<p>Credit: <a href="https://observablehq.com/@zxarda01/interactive-map-to-visualize-world-population-data-tutori">Interactive map for Manchester United Fan Geography Distribution by Brandon TH Chen</a></p>
-
-<script type="module">
-import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
-import define from "https://api.observablehq.com/@zxarda01/interactive-map-to-visualize-world-population-data-tutori.js?v=3";
-new Runtime().module(define, name => {
-  if (name === "map") return new Inspector(document.querySelector("#observablehq-map-ed20d7da"));
-  if (name === "styles") return new Inspector(document.querySelector("#observablehq-styles-ed20d7da"));
-  return ["clicked","options"].includes(name);
-});
-</script>
+            <iframe width="100%" height="802" frameborder="0"
+  src="https://observablehq.com/embed/@zxarda01/interactive-map-to-visualize-world-population-data-tutori?cells=map%2Cstyles"></iframe>
       </section>
     <!-- Portfolio end --> 
 
