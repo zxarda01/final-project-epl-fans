@@ -1,0 +1,138 @@
+grant_title,position,id,organization,total_amount,group,Grant start date,start_month,start_day,start_year
+Brad Smith,Left-Back,20,AFC Bournemouth,3600000,medium,5/1/18,5,1,2018
+Jefferson Lerma,Defensive Midfield,12,AFC Bournemouth,2800000,medium,5/16/19,3,14,2019
+Harry Wilson,Right Winger,9,AFC Bournemouth,2700000,medium,4/7/20,3,14,2020
+Jack Stacey,Right-Back,44,AFC Bournemouth,4450000,medium,4/20/20,3,14,2020
+Sven Kums,Central Midfield,89,Arsenal FC,9000000,high,5/29/18,5,1,2018
+Granit Xhaka,Defensive Midfield,125,Arsenal FC,45000000,high,6/8/18,5,1,2018
+Pierre-Emerick Aubameyang,Centre-Forward,72,Arsenal FC,6375000,high,6/13/19,3,14,2019
+Bernd Leno,Goalkeeper,114,Arsenal FC,25000000,high,6/29/19,3,14,2019
+Nicolas Pepe,Right Winger,133,Arsenal FC,80000000,high,5/9/20,3,14,2020
+Takuma Asano,Left Winger,28,Arsenal FC,4000000,medium,5/2/18,5,1,2018
+Lucas Torreira,Defensive Midfield,13,Arsenal FC,2865000,medium,5/17/19,3,14,2019
+Tom Heaton,Goalkeeper,85,Aston Villa,8800000,high,4/21/20,3,14,2020
+Anwar El Ghazi,Right Winger,90,Aston Villa,9000000,high,4/23/20,3,14,2020
+Trezeguet,Left Winger,95,Aston Villa,10000000,high,4/25/20,3,14,2020
+Douglas Luiz,Defensive Midfield,107,Aston Villa,16800000,high,4/29/20,3,14,2020
+Kortney Hause,Centre-Back,19,Aston Villa,3400000,medium,4/14/20,3,14,2020
+Mathew Ryan,Goalkeeper,67,Brighton & Hove Albion,6000000,high,6/8/19,3,14,2019
+Jose Izquierdo,Left Winger,103,Brighton & Hove Albion,14500000,high,6/24/19,3,14,2019
+Markus Suttner,Left-Back,45,Brighton & Hove Albion,4500000,medium,6/2/19,3,14,2019
+Tariq Lamptey,Right-Back,16,Brighton & Hove Albion,3300000,medium,4/11/20,3,14,2020
+Aaron Mooy,Central Midfield,17,Brighton & Hove Albion,3300000,medium,4/12/20,3,14,2020
+Matt Clarke,Centre-Back,24,Brighton & Hove Albion,3900000,medium,4/15/20,3,14,2020
+Nahki Wells,Centre-Forward,64,Bristol City Football Club,5400000,medium,6/6/19,3,14,2019
+Papy Djilobodji,Centre-Back,93,Burnley FC,9500000,high,6/1/18,5,1,2018
+Jay Rodr’guez,Centre-Forward,96,Burnley FC,10000000,high,4/26/20,3,14,2020
+Josh Brownhill,Central Midfield,97,Burnley FC,10000000,high,4/27/20,3,14,2020
+Joe Hart,Goalkeeper,40,Burnley FC,4000000,medium,5/31/19,3,14,2019
+Erik Pieters,Left-Back,2,Burnley FC,1100000,medium,3/31/20,3,14,2020
+Bailey Peacock-Farrell,Goalkeeper,10,Burnley FC,2750000,medium,4/8/20,3,14,2020
+Greg Cunningham,Left-Back,38,Cardiff City,4000000,medium,5/29/19,3,14,2019
+Alex Smithies,Goalkeeper,39,Cardiff City,4000000,medium,5/30/19,3,14,2019
+Alvaro Morata,Centre-Forward,74,Chelsea FC,6600000,medium,6/15/19,3,14,2019
+V’ctor Camarasa,Central Midfield,4,Crystal Palace,1500000,medium,4/2/20,3,14,2020
+Jordan Ayew,Centre-Forward,11,Crystal Palace,2800000,medium,4/9/20,3,14,2020
+James McCarthy,Central Midfield,18,Crystal Palace,3300000,medium,4/13/20,3,14,2020
+Patrick van Aanholt,Left-Back,98,Crystal Palace F.C.,10500000,high,6/2/18,5,1,2018
+Sandro Ramirez,Centre-Forward,68,Everton FC,6000000,high,6/9/19,3,14,2019
+Yerry Mina,Centre-Back,119,Everton FC,30250000,high,7/4/19,3,14,2019
+Fabian Delph,Central Midfield,94,Everton FC,9500000,high,4/24/20,3,14,2020
+Jarrad Branthwaite,Centre-Back,3,Everton FC,1100000,medium,4/1/20,3,14,2020
+Djibril Sidibe,Right-Back,8,Everton FC,2500000,medium,4/6/20,3,14,2020
+Andre Zambo Anguissa,Defensive Midfield,112,Fulham FC,24850000,high,6/27/19,3,14,2019
+Aleksandar Mitrovic,Centre-Forward,117,Fulham FC,25700000,high,7/2/19,3,14,2019
+Jean Micha‘l Seri,Central Midfield,118,Fulham FC,30000000,high,7/3/19,3,14,2019
+Maxime Le Marchand,Centre-Back,37,Fulham FC,4000000,medium,5/28/19,3,14,2019
+Laurent Depoitre,Centre-Forward,22,Huddersfield Town,3800000,medium,5/19/19,3,14,2019
+Scott Malone,Left-Back,25,Huddersfield Town,3900000,medium,5/21/19,3,14,2019
+David Marshall,Goalkeeper,41,Hull City,4100000,medium,5/4/18,5,1,2018
+Markus Henriksen,Central Midfield,63,Hull City,5300000,medium,5/19/18,5,1,2018
+Arthur Masuaku,Left-Back,77,Leicester City,7100000,top,5/23/18,5,1,2018
+Idrissa Gueye,Defensive Midfield,82,Leicester City,8250000,top,5/24/18,5,1,2018
+Adama Traore,Right Winger,83,Leicester City,8250000,top,5/25/18,5,1,2018
+Steven Defour,Defensive Midfield,84,Leicester City,8600000,top,5/26/18,5,1,2018
+Ademola Lookman,Left Winger,86,Leicester City,8800000,top,5/27/18,5,1,2018
+Daryl Janmaat,Centre-Back,87,Leicester City,8900000,top,5/28/18,5,1,2018
+Jonny Evans,Centre-Back,34,Leicester City,4000000,top,5/25/19,3,14,2019
+Bartosz Kapustka,Attacking Midfield,52,Leicester City,5000000,top,5/11/18,5,1,2018
+Harry Maguire,Centre-Back,99,Leicester City,13700000,top,6/20/19,3,14,2019
+Harry Maguire,Centre-Back,100,Leicester City,13700000,top,6/21/19,3,14,2019
+Vicente Iborra,Central Midfield,104,Leicester City,15000000,top,6/25/19,3,14,2019
+James Maddison,Attacking Midfield,113,Leicester City,25000000,top,6/28/19,3,14,2019
+Virgil van Dijk,Centre-Back,134,Liverpool FC,84650000,high,7/5/19,3,14,2019
+Ragnar Klavan,Centre-Back,53,Liverpool FC,5000000,medium,5/12/18,5,1,2018
+Sepp van den Berg,Centre-Back,6,Liverpool FC,1900000,medium,4/4/20,3,14,2020
+Marlos Moreno,Right Winger,65,Manchester City,5500000,top,5/20/18,5,1,2018
+Leroy Sane,Right Winger,126,Manchester City,52000000,top,6/9/18,5,1,2018
+John Stones,Centre-Back,129,Manchester City,55600000,top,6/10/18,5,1,2018
+Aymeric Laporte,Centre-Back,73,Manchester City,6500000,top,6/14/19,3,14,2019
+Rodri,Defensive Midfield,131,Manchester City,62700000,top,5/7/20,3,14,2020
+Joao Cancelo,Right-Back,132,Manchester City,65000000,top,5/8/20,3,14,2020
+Gero Rulli,Goalkeeper,48,Manchester City,4700000,top,5/7/18,5,1,2018
+Olarenwaju Kayode,Centre-Forward,23,Manchester City,3800000,top,5/20/19,3,14,2019
+Jack Harrison,Left Winger,29,Manchester City,4000000,top,5/23/19,3,14,2019
+Alexis S‡nchez,Centre-Forward,120,Manchester United,34000000,manu,6/3/18,5,1,2019
+Victor Lindelof,Centre-Back,121,Manchester United,35000000,manu,6/4/18,5,1,2019
+Eric Bailly,Centre-Back,122,Manchester United,38000000,manu,6/5/18,5,1,2018
+Henrikh Mkhitaryan,Attacking Midfield,123,Manchester United,42000000,manu,6/6/18,5,1,2018
+Nemanja Matic,Defensive Midfield,124,Manchester United,44700000,manu,6/7/18,5,1,2019
+Paul Pogba,Central Midfield,137,Manchester United,105000000,manu,6/11/18,5,1,2018
+Romelu Lukaku,Centre-Forward,135,Manchester United,84700000,manu,7/6/19,3,14,2019
+Daniel James,Left Winger,108,Manchester United,17780000,manu,4/30/20,3,14,2020
+Bruno Fernandes,Attacking Midfield,127,Manchester United,55000000,manu,5/4/20,3,14,2020
+Aaron Wan-Bissaka,Right-Back,128,Manchester United,55000000,manu,5/5/20,3,14,2020
+Harry Maguire,Centre-Back,136,Manchester United,87000000,manu,5/10/20,3,14,2020
+Patrick Bamford,Centre-Forward,75,Middlesbrough FC,6900000,high,5/21/18,5,1,2018
+Viktor Fischer,Left Winger,54,Middlesbrough FC,5000000,medium,5/13/18,5,1,2018
+Adlene Guedioura,Central Midfield,60,Middlesbrough FC,5200000,medium,5/16/18,5,1,2018
+Joselu,Centre-Forward,66,Newcastle United,5500000,high,6/7/19,3,14,2019
+Christian Atsu,Left Winger,79,Newcastle United,7500000,high,6/17/19,3,14,2019
+Allan Saint-Maximin,Left Winger,110,Newcastle United,18000000,high,5/2/20,3,14,2020
+Mikel Merino,Central Midfield,14,Newcastle United,3000000,medium,5/18/19,3,14,2019
+Fabian Schar,Centre-Back,33,Newcastle United,4000000,medium,5/24/19,3,14,2019
+Martin Dubravka,Goalkeeper,35,Newcastle United,4000000,medium,5/26/19,3,14,2019
+Javier Manquillo,Right-Back,55,Newcastle United,5000000,medium,6/3/19,3,14,2019
+Valentino Lazaro,Right Midfield,5,Newcastle United,1500000,medium,4/3/20,3,14,2020
+Danny Rose,Left-Back,7,Newcastle United,2000000,medium,4/5/20,3,14,2020
+Ralf Fahrmann,Goalkeeper,15,Norwich City,3000000,medium,4/10/20,3,14,2020
+Sam McCallum,Left-Back,42,Norwich City,4150000,medium,4/19/20,3,14,2020
+Ben Osborn,Left Midfield,26,Sheffield United,3900000,medium,4/16/20,3,14,2020
+Jan Bednarek,Centre-Back,69,Southampton FC,6000000,high,6/10/19,3,14,2019
+Jannik Vestergaard,Centre-Back,116,Southampton FC,25000000,high,7/1/19,3,14,2019
+Moussa Djenepo,Left Winger,106,Southampton FC,15700000,high,4/28/20,3,14,2020
+Alex McCarthy,Goalkeeper,49,Southampton FC,4700000,medium,5/8/18,5,1,2018
+Kevin Danso,Centre-Back,30,Southampton FC,4000000,medium,4/17/20,3,14,2020
+Moritz Bauer,Right-Back,70,Stoke City,6200000,high,6/11/19,3,14,2019
+Bruno Martins Indi,Centre-Back,81,Stoke City,7700000,high,6/19/19,3,14,2019
+Ramadan Sobhi,Left Winger,56,Stoke City,5000000,medium,5/14/18,5,1,2018
+Kamil Grosicki,Left Winger,91,Sunderland AFC,9000000,high,5/30/18,5,1,2018
+Paddy McNair,Centre-Back,62,Sunderland AFC,5250000,medium,5/18/18,5,1,2018
+Luciano Narsingh,Right Winger,46,Swansea City,4600000,medium,5/5/18,5,1,2018
+Martin Olsson,Left-Back,47,Swansea City,4600000,medium,5/6/18,5,1,2018
+Tom Carroll,Central Midfield,61,Swansea City,5200000,medium,5/17/18,5,1,2018
+Fernando Llorente,Centre-Forward,105,Tottenham Hotspur,15100000,high,6/26/19,3,14,2019
+Tanguy Ndombele,Central Midfield,130,Tottenham Hotspur,60000000,high,5/6/20,3,14,2020
+Christian Kabasele,Centre-Back,76,Watford FC,6950000,high,5/22/18,5,1,2018
+Jose Fonte,Centre-Back,92,Watford FC,9200000,high,5/31/18,5,1,2018
+Nathaniel Chalobah,Defensive Midfield,71,Watford FC,6300000,high,6/12/19,3,14,2019
+Brice Dja Djedje,Defensive Midfield,21,Watford FC,3600000,medium,5/1/18,5,1,2018
+Younes Kaboul,Centre-Back,31,Watford FC,4000000,medium,5/3/18,5,1,2018
+Pontus Dahlberg,Goalkeeper,27,Watford FC,3900000,medium,5/22/19,3,14,2019
+Dodi Lukebakio,Right Winger,57,Watford FC,5000000,medium,6/4/19,3,14,2019
+Joao Pedro,Centre-Forward,32,Watford FC,4000000,medium,4/18/20,3,14,2020
+Yuning Zhang,Centre-Forward,78,West Bromwich Albion,7200000,high,6/16/19,3,14,2019
+Kieran Gibbs,Left-Back,80,West Bromwich Albion,7500000,high,6/18/19,3,14,2019
+Jay Rodriguez,Centre-Forward,101,West Bromwich Albion,13700000,high,6/22/19,3,14,2019
+Jay Rodr’guez,Centre-Forward,102,West Bromwich Albion,13700000,high,6/23/19,3,14,2019
+Allan Nyom,Right-Back,50,West Bromwich Albion,4700000,medium,5/9/18,5,1,2018
+Ahmed Hegazy,Centre-Back,58,West Bromwich Albion,5000000,medium,6/5/19,3,14,2018
+Fabian Balbuena,Centre-Back,1,West Ham United,4000000,high,5/15/19,3,14,2019
+Lucas Perez,Centre-Forward,43,West Ham United,4400000,high,6/1/19,3,14,2019
+Jonathan Calleri,Centre-Forward,51,West Ham United,4700000,medium,5/10/18,5,1,2018
+Simone Zaza,Centre-Forward,59,West Ham United,5000000,medium,5/15/18,5,1,2018
+Issa Diop,Centre-Back,115,West Ham United,25000000,medium,6/30/19,3,14,2019
+Bruno Jord‹o,Central Midfield,88,Wolverhampton Wanderers,8900000,high,4/22/20,3,14,2020
+Pedro Neto,Left Winger,109,Wolverhampton Wanderers,17900000,high,5/1/20,3,14,2020
+Patrick Cutrone,Centre-Forward,111,Wolverhampton Wanderers,18000000,high,5/3/20,3,14,2020
+Leo Bonatini,Centre-Forward,36,Wolverhampton Wanderers,4000000,medium,5/27/19,3,14,2019
