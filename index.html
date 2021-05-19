@@ -269,8 +269,8 @@
         </div>
         <!-- Heading end-->
         <div class="text-center">
-        <p>This chart shows the 20 years of ranking records of top 10 EPL clubs. Each line of circles shows the ranking of that particular year. Starting from the outer circle, it shows high-ranking teams in sequence.<Br>
-          If you hover over the club names, you can see the radar chart for the ranking history of that club. A large radar means that the club maintained the high ranking throughout the period.</p>
+          <h4 style="color: darkblue;">Ranking Radar Chart</h4>
+        <p>This chart shows the 20 years of ranking records of top 10 EPL clubs. Each line of circles shows the ranking of that particular year. Starting from the outer circle, it shows high-ranking teams in sequence. If you hover over the club names, you can see the radar chart for the ranking history of that club. A large radar means that the club maintained the high ranking throughout the period.</p>
         </div>
           <body>
             <div id="observablehq-viewof-options-a8b0b796"></div>
@@ -285,41 +285,37 @@
               return ["salesData"].includes(name);
             });
             </script>
-        
         </body>
-        
+        <div class="container px-lg-5"> 
+          <!-- Heading -->
+          
+          <div class="text-center">
+            <br><br>
+            <h4 style="color: darkblue;">Winning Points Line Chart</h4><br>
+            <p>This chart shows the Performance Comparison between Manchester United with other top10 teams in the league. The metric we use is Points. A team is awarded 3 points after winning a match or one point if the game ends as a draw or tie. By selecting different teams, we can compare the performance for them. Without any doubts, Manchester United is among the top performance tier in the league.</p>
+              </div>
+              </div>
+              <!-- Heading end-->
+              <div id="observablehq-viewof-dd1-ffadd5e3"></div>
+              <div id="observablehq-chart-ffadd5e3"></div>
+  
+              <script type="module">
+              import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+              import define from "https://api.observablehq.com/@zxarda01/multi-line-chart-zoom.js?v=3";
+              new Runtime().module(define, name => {
+              if (name === "viewof dd1") return new Inspector(document.querySelector("#observablehq-viewof-dd1-ffadd5e3"));
+              if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-ffadd5e3"));
+              });
+              </script>
+            
       </div>
     </section>
     <!-- performance end --> 
-    
-    <!-- Portfolio
+
+
+     <!-- supporters
     ============================================= -->
-    <section id="portfolio" class="section bg-light">
-      <div class="container px-lg-5"> 
-        <!-- Heading -->
-        <div class="position-relative d-flex text-center mb-5">
-          <h2 class="text-24 text-light opacity-4 text-uppercase font-weight-600 w-100 mb-0">Performance</h2>
-          <p class="text-9 text-dark font-weight-600 position-absolute w-100 align-self-center line-height-4 mb-0">Attacking Points<span class="heading-separator-line border-bottom border-3 border-primary position-abolute d-block mx-auto"></span> </p>
-        </div>
-        <!-- Heading end-->
-        <div id="observablehq-viewof-dd1-ffadd5e3"></div>
-<div id="observablehq-chart-ffadd5e3"></div>
-
-<script type="module">
-import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
-import define from "https://api.observablehq.com/@zxarda01/multi-line-chart-zoom.js?v=3";
-new Runtime().module(define, name => {
-  if (name === "viewof dd1") return new Inspector(document.querySelector("#observablehq-viewof-dd1-ffadd5e3"));
-  if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-ffadd5e3"));
-});
-</script>
-      </section>
-    <!-- Portfolio end -->
-
-
-     <!-- Portfolio
-    ============================================= -->
-    <section id="portfolio" class="section">
+    <section id="supporters" class="section bg-light">
       <div class="container px-lg-5"> 
           <!-- Heading -->
              <div class="position-relative d-flex text-center mb-5">
