@@ -1,15 +1,32 @@
 ## 6.859 - Interactive Data Visualization
-<b>A4 Final Submission</b><br>
-Link: https://6859-sp21.github.io/a4-education-in-korea-and-united-states/
+<b>Final Project Final Submission</b><br>
+Link: https://6859-sp21.github.io/final-project-epl-fans/index.html
 
-Updated Project Title : Adult Education Levels in different Countries
+Updated Project Title : 360 Degrees Analysis on the Most Beloved Football Club in English Premier League: Manchester United
 #### **Team:**
-* Brandon Chen (brandonc@mit.edu)
 * ByeongJo Kong (kongb@mit.edu)
+* Brandon Chen (brandonc@mit.edu)
 <br>
 
-**Dataset:** OECD Data Library<br>
-https://data.oecd.org/eduatt/adult-education-level.htm#indicator-chart
+**Video:** <br>
+https://youtu.be/4JlkE2x6xQs
+
+**link to the paper:** <br>
+TBU
+
+project title, (ok)
+team members,  (ok)
+summary image, 
+abstract, 
+link to the paper, (ok)
+video, (ok) 
+running instructions for the software,
+other optional materials. (Or in README.md if you have privacy concerns.)
+
+a breakdown of how the work was split among group members 
+a commentary on the research/development process in the README.md.
+
+
 
 
 **Design Decision** <br>
